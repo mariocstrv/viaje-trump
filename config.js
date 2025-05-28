@@ -242,7 +242,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Emiratos Árabes Unidos',
-            description: 'Trump llega a Abu Dabi el 16 de mayo.',
+            description: 'Trump llegó a Abu Dabi el 16 de mayo.',
             location: {
                 center: [54.39173, 24.41110],
                 zoom: 7.3,
@@ -302,7 +302,7 @@ var config = {
             hidden: false,
             title: 'Conclusión',
             image: 'Airforce.jpg',
-            description: 'La visita de Trump a estas tres naciones ha marcado un momento clave en las relaciones de Estados Unidos con Oriente Medio. Económicamente varios lo describen como un éxito rotundo y en el ámbito geopolítico, la decisión de Trump de levantar las sanciones a Siria es abiertamente considerada un acierto.',
+            description: 'La visita de Trump a estas tres naciones marcó un momento clave en las relaciones de Estados Unidos con Oriente Medio. Económicamente varios lo describen como un éxito rotundo y en el ámbito geopolítico, la decisión de Trump de levantar las sanciones a Siria es abiertamente considerada un acierto.',
             location: {
                 center: [50.58010, 24.01043],
                 zoom: 4,
