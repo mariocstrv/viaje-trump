@@ -24,7 +24,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Comienza el viaje',
-            image:'./assets/Llega.jpg',
+            image:'Llega.jpg',
             description: 'Del 13 al 16 de mayo de 2025, Donald Trump emprendió su primer gran viaje internacional de su segundo mandato, visitando Arabia Saudí, Qatar y Emiratos Árabes Unidos. El objetivo era conseguir acuerdos empresariales e inversiones en Estados Unidos.',
             location: {
                 center: [50.58010, 24.01043],
@@ -68,7 +68,7 @@ var config = {
             hidden: false,
             title: 'Palacio Real - Arabia Saudí',
             description: 'Trump se reunió con Mohammed bin Salman, donde el estadounidense reiteró sus llamamientos para aumentar la inversión de Arabia Saudí en Estados Unidos de 600.000 millones de dólares a un billón de dólares.',
-            image: './assets/Trump_MBS.jpg',
+            image: 'Trump_MBS.jpg',
             location: {
                 center: [46.6395433523343,24.66470889618641],
                 zoom: 16,
@@ -89,7 +89,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Centro Internacional King Abdulaziz',
-            image: './assets/Investment.jpg',
+            image: 'Investment.jpg',
             description: 'La visita de Trump coincidió con el Foro de Inversión Saudí-Estadounidense. En su intervención en el foro, Trump animó a Arabia Saudí a unirse a los Acuerdos de Abraham, lo que provocó el silencio de los asistentes, anunció que levantaría las sanciones a Siria e imploró a Irán que negociara sobre su programa nuclear.',
             location: {
                 center: [46.63364166187366,24.667421888193285],
@@ -120,7 +120,7 @@ var config = {
             hidden: false,
             title: 'Palacio Real',
             description: 'Trump se reunió con el presidente sirio, Ahmed al-Sharaa y le instó a unirse a los Acuerdos de Abraham. Mohammed bin Salman y el presidente turco Recep Tayyip Erdoğan participaron en la reunión.',
-            image: './assets/Syria.jpg',
+            image: 'Syria.jpg',
             location: {
                 center: [46.6395433523343,24.66470889618641],
                 zoom: 16,
@@ -186,7 +186,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Amiri Diwan - Catar',
-            image: './assets/Catar.jpg',
+            image: 'Catar.jpg',
             description: 'En Doha Trump se reunió con Tamim bin Hamad Al Thani. Horas después, Qatar Airways firmó un acuerdo para comprar hasta 210 aviones a Boeing y Estados Unidos anunció más de 243.000 millones de dólares en acuerdos con Qatar.',
             location: {
                 center: [51.52839890488997,25.290407202420347],
@@ -205,7 +205,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Palacio de Lusail',
-            image: './assets/FIFA.jpg',
+            image: 'FIFA.jpg',
             description: 'Más tarde, Trump asistió a una cena de Estado en el Palacio de Lusail,donde hizo un llamamiento a Qatar para mejorar las relaciones entre Irán y Estados Unidos. Tras la cena, Trump y Tamim se reunieron para asistir a una ceremonia de traspaso de las funciones de anfitrión del Mundial de la FIFA a Estados Unidos.',
             location: {
                 center: [51.45976701460791,25.538615974557615],
@@ -263,7 +263,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Gran Mezquita Sheikh Zayed',
-            image: './assets/Mezquita.jpg',
+            image: 'Mezquita.jpg',
             description: 'Visitó la Gran Mezquita Sheikh Zayed con Khaled bin Mohamed Al Nahyan.',
             location: {
                 center: [54.47438798096506,24.412354950214166],
@@ -282,7 +282,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Palacio Presidencial',
-            image: './assets/Zayed.webp',
+            image: 'Zayed.webp',
             description: 'Los Emiratos Árabes Unidos concedieron a Trump Orden de Zayed, la más alta condecoración civil de los EAU, “en reconocimiento a sus esfuerzos por mejorar la cooperación entre los Emiratos Árabes Unidos y Estados Unidos”.',
             location: {
                 center: [54.305538159418724,24.461946021693453],
@@ -301,7 +301,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Conclusión',
-            image: './assets/Airforce.jpg',
+            image: 'Airforce.jpg',
             description: 'La visita de Trump a estas tres naciones ha marcado un momento clave en las relaciones de Estados Unidos con Oriente Medio. Económicamente varios lo describen como un éxito rotundo y en el ámbito geopolítico, la decisión de Trump de levantar las sanciones a Siria es abiertamente considerada un acierto.',
             location: {
                 center: [50.58010, 24.01043],
